@@ -1,0 +1,25 @@
+{
+  "widget": {
+    "icon_path": "power"
+  },
+  "menu": {
+    "items": [
+      {
+        "icon": "moon",
+        "title": "Suspend",
+        "onclick": "systemctl suspend"
+      },
+      {
+        "icon": "refresh-cw",
+        "title": "Reboot",
+        "onclick": "reboot"
+      },
+      {
+        "icon": "power",
+        "title": "Turn off",
+        "onclick": "shutdown now"
+      }
+    ]
+  }
+}
+
