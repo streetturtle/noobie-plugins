@@ -9,4 +9,4 @@ else
     ICON="battery"
 fi
 
-echo "{ \"widget\": { \"icon_path\": \"$ICON\", \"text\": \"$CAPACITY\"}}"
+echo "{ \"widget\": { \"icon\": \"$ICON\", \"text\": \"$CAPACITY\"}}"

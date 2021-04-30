@@ -10,4 +10,4 @@ else
     ICON="pause"
 fi
 
-echo "{ \"widget\": { \"icon_path\": \"$ICON\", \"text\": \"$ARTIST - $TITLE\", \"mouse_actions\": { \"on_scroll_up\": \"sp next\", \"on_scroll_down\": \"sp prev\", \"on_left_click\": \"sp play\" }}}"
+echo "{ \"widget\": { \"icon\": \"$ICON\", \"text\": \"$ARTIST - $TITLE\", \"mouse_actions\": { \"on_scroll_up\": \"sp next\", \"on_scroll_down\": \"sp prev\", \"on_left_click\": \"sp play\" }}}"

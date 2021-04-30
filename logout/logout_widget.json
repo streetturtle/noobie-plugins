@@ -1,6 +1,6 @@
 {
   "widget": {
-    "icon_path": "power"
+    "icon": "power"
   },
   "menu": {
     "items": [
