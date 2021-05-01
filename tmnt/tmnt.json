@@ -1,6 +1,6 @@
 {
   "widget": {
-    "icon": "/home/pmakhov/.config/awesome/noobie-plugins/tmnt/tmnt-icons/017-michaelangelo.svg",
+    "icon": "~/.config/awesome/noobie-plugins/tmnt/tmnt-icons/017-michaelangelo.svg",
     "text": "",
     "mouse_actions": {
       "on_scroll_up": "echo 'scroll up'",
@@ -11,53 +11,53 @@
   "menu": {
     "items": [
       {
-        "header": true,
+        "type": "header",
         "title": "Good guys"
       },
       {
-        "icon": "/home/pmakhov/.config/awesome/noobie-plugins/tmnt/tmnt-icons/017-michaelangelo.svg",
+        "icon": "~/.config/awesome/noobie-plugins/tmnt/tmnt-icons/017-michaelangelo.svg",
         "icon_size": 48,
         "title": "<b>Michaelangelo</b>",
         "subtitle": "Physically the smallest of the Turtles and the least mature. Mikey is easily distracted and enthusiastic about... well, pretty much everything.",
         "onclick": "xdg-open https://tmnt2012series.fandom.com/wiki/Michelangelo"
       },
       {
-        "icon": "/home/pmakhov/.config/awesome/noobie-plugins/tmnt/tmnt-icons/015-leonardo.svg",
+        "icon": "~/.config/awesome/noobie-plugins/tmnt/tmnt-icons/015-leonardo.svg",
         "icon_size": 48,
         "title": "<b>Leonardo</b>",
         "subtitle": "The leader of the Turtles, Leonardo aspires to be a brave, decisive, perfect hero.",
         "onclick": "xdg-open https://tmnt2012series.fandom.com/wiki/Leonardo"
       },
       {
-        "icon": "/home/pmakhov/.config/awesome/noobie-plugins/tmnt/tmnt-icons/020-raphael.svg",
+        "icon": "~/.config/awesome/noobie-plugins/tmnt/tmnt-icons/020-raphael.svg",
         "icon_size": 48,
         "title": "<b>Raphael</b>",
         "subtitle": "Raphael is the most violent of the four brothers. A straight-up brawler, he has very little patience for things like stealth, hiding in shadows, or keeping his voice down.",
         "onclick": "xdg-open https://tmnt2012series.fandom.com/wiki/Raphael"
       },
       {
-        "icon": "/home/pmakhov/.config/awesome/noobie-plugins/tmnt/tmnt-icons/007-donatello.svg",
+        "icon": "~/.config/awesome/noobie-plugins/tmnt/tmnt-icons/007-donatello.svg",
         "icon_size": 48,
         "title": "<b>Donatello</b>",
         "subtitle": "Donatello is the team inventor and weaponeer. He creates all their gadgets from the simplest bo-staff to their incredible vehicles.",
         "onclick": "xdg-open https://tmnt2012series.fandom.com/wiki/Donatello"
       },
       {
-        "title": "-"
+        "type": "separator"
       },
       {
-        "header": true,
-        "title": "Bad guys",
+        "type": "header",
+        "title": "Bad guys"
       },
       {
-        "icon": "/home/pmakhov/.config/awesome/noobie-plugins/tmnt/tmnt-icons/022-rocksteady.svg",
+        "icon": "~/.config/awesome/noobie-plugins/tmnt/tmnt-icons/022-rocksteady.svg",
         "icon_size": 40,
         "title": "<b>Rocksteady</b>",
         "subtitle": "He was originally a human Russian arms dealer with ties to Shredder and The Foot Clan named Ivan Ilyich Steranko",
         "onclick": "xdg-open 'https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon)'"
       },
       {
-        "icon": "/home/pmakhov/.config/awesome/noobie-plugins/tmnt/tmnt-icons/002-bebop.svg",
+        "icon": "~/.config/awesome/noobie-plugins/tmnt/tmnt-icons/002-bebop.svg",
         "icon_size": 40,
         "title": "<b>Bebop</b>",
         "subtitle": "He was born in 1988 in New York City and that it was he who gave Ivan Steranko his diamond eye.",
