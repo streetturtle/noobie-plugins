@@ -1,6 +1,6 @@
 # TMNT widget
 
-A static simple widget with large icons, headers, separator and suntitle:
+A static simple widget with large icons, headers, separator and subtitle:
 
 ![screenshot](./screenshots/screenshot.png)
 
